@@ -8,3 +8,19 @@ Bu dosya yanlızca siber güvenlik çerçevesinde kullanılması amacıyla geli�
 Bu dosya, kaynak kodları açık halde 05.07.2019 (5 Temmuz 2019) tarihinde Github.com üzerinden yayınlanmıştır.
 Bu dosyanın kullanılması halinde kullananların, '!!! Önemli Uyarı  !!!'  başlığı altında geçen ve belirtilen tüm bu sorumlulukları kendi üzerine aldığı/aldıkları kabul edilir.
 --------------------------------------------------
+
+
+Web Shell dosyasına ait bazı fonksiyonlar şunlardır:
+MD5-SHA1 Encrpyter,
+BASE64 Encoder / Decoder,
+Mysql Bağlantısı,
+PHP Eval Kodu Çalıştırma,
+Symlink,
+Port Tarama ,
+Dizin Dosya Listeleme,
+Ağ Bilgisi,
+PHPinfo Bilgi Dosyası Oluşturma,
+Dosya Yükleme,
+Dosya Düzenleme, Silme, Yeniden Adlandırma,
+Komut Çalıştırma,
+Bazı Sunucu, Tarayıcı, Disk, Yetki, Kapalı Fonksiyon Bilgileri.
